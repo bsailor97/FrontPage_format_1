@@ -1,0 +1,1 @@
+Design a multi-section portfolio site with a gallery and contact form layout (no JavaScript required).
